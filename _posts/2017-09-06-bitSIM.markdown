@@ -5,8 +5,8 @@ date: 2017-09-06
 categories:
   - Tech
 description: 
-image: http://img.youtube.com/vi/MNTObCr4gnM/maxresdefault.jpg
-image-sm: http://img.youtube.com/vi/MNTObCr4gnM/maxresdefault.jpg
+image: https://fs.bitcoinmagazine.com/img/images/bitsim-adds-secure-hardware-wallet-phone.width-800.jpg
+image-sm: https://fs.bitcoinmagazine.com/img/images/bitsim-adds-secure-hardware-wallet-phone.width-800.jpg
 ---
 
 # bitSIM -  What is it?
