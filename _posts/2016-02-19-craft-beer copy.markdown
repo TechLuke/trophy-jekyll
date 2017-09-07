@@ -1,14 +1,23 @@
 ---
 layout: post
-title: "Craft Beer"
-date: 2016-02-19
+title: "bitSIM"
+date: 2017-09-06
 categories:
-  - Juice
+  - Tech
 description: 
 image: https://unsplash.it/2000/1200?image=1003
 image-sm: https://unsplash.it/500/300?image=1003
 ---
-Etsy squid occupy pop-up. Polaroid +1 everyday carry, kogi chillwave tacos raclette heirloom etsy next level cred locavore. Blog street art DIY, pug crucifix asymmetrical chicharrones. Small batch af single-origin coffee, scenester humblebrag fashion axe viral schlitz you probably haven't heard of them. Kickstarter synth poutine brunch hoodie. Gochujang marfa raclette kickstarter tumeric kinfolk gentrify retro skateboard, forage meggings polaroid kombucha. Tilde mlkshk fam meggings.
+
+# bitSIM -  What is it?
+
+bitSIM is a new way to digitally place your bitcoins onto any SIM card. As bitcoins become more widely accepted and recognized as legitimate payment people are using bitcoins more often in their daily lives. The problem that they are facing now is that to currently use bitcoins you must always have an internet connection in order to broadcast the transactions. bitSIM aims to change this by making Bitcoin and blockchain transactions available to anyone, anywhere, on any phone, any time.
+
+bitSIM is a secure platform designed for developers, consumers, and the nextgen payment providers. Allowing for utilization of the Bitcoin technology by piggy backing on already existing mobile infrastructures, users will be able to send and receive payment directly from their phones. bitSIM’s ambition is to put the user in total control of their financial portfolio. The user will set up a secure PIN that only they know. bitSIM uses a Java Card core for the base of their secure hardware token allowing any Java-based application to securely run on smart cards.  Further more bitSIM goes the extra mile in security by creating their own independent SIM token allowing for authentication of digital assets. Users can also create different security profiles using bitSIM’s PIN authentication to cloud-based services. bitSIM understands when money is concerned security is the highest priority. That is why they also use a secondary dedicated SIM communications interface chip. bitSIM is trying to revolutionize the way the world uses Bitcoins. This new adoption will bring new innovations to mobile solutions to everyone, worldwide. This method does not rely on internet access so the parts of the world where internet access is scarce will finally have reliable access to their Bitcoin currency.
+
+# How it All Works
+
+<img src="https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAe5AAAAJGQ4NmQ1MjJlLWUyNGItNGY3My1hOTMxLWVhMmE1OGE5MGMwMg.jpg" style="align:middle" />
 
 <ul>
   <li>Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.</li>
