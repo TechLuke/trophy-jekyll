@@ -18,7 +18,7 @@ bitSIM is a secure platform designed for developers, consumers, and the nextgen 
 # How it All Works
 
 <figure>
-  <img src="/assets/images/bitSimOne.jpg" width="100" />
+  <img src="/assets/images/bitSimOne.jpg" style="width:128px;height:128px;" />
 </figure>
 
 <ul>
